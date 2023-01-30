@@ -1,0 +1,21 @@
+div {
+    border-radius: 5px;
+}
+
+#one {
+    margin-left: 50px;
+    height: 2500px;
+    width: 150px;
+    background-color: #66fff7;
+    border: 4px dashed red;
+}
+
+#two {
+    position: fixed;
+    top: 150px;
+    left: 150px;
+    height: 100px;
+    width: 100px;
+    background-color: #547980;
+    border: 2px solid black;
+}
