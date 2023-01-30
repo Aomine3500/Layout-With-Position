@@ -1,0 +1,16 @@
+* {
+    border: 2px solid red;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: #fff;
+}
+
+/* the default value of Position is Static */
+
+#one {
+    background-color: green;
+}
